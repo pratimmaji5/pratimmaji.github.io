@@ -1,2 +1,2 @@
 # pratimmaji.github.io
-My first project for hacktoberfest 2020
+This is my first project for hacktoberfest 2020
